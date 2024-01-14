@@ -22430,19 +22430,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sorana\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bbaic\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "WebScrapping",
       "projectName": "WebScrapping",
-      "projectPath": "C:\\Users\\Sorana\\Documents\\facultate\\RPA\\RPA_Project\\WebScrapping\\.local",
-      "packagesPath": "C:\\Users\\Sorana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sorana\\Documents\\facultate\\RPA\\RPA_Project\\WebScrapping\\.local",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ]
+      "projectPath": "C:\\Users\\bbaic\\OneDrive\\Desktop\\RPA_Project\\WebScrapping\\.local",
+      "packagesPath": "C:\\Users\\bbaic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bbaic\\OneDrive\\Desktop\\RPA_Project\\WebScrapping\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -22478,7 +22474,7 @@
             "version": "[23.12.0-preview, 23.12.0-preview]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Sorana\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bbaic\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
