@@ -11,7 +11,9 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "DataTable&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [
         "in_URL",
         "SearchItems"
@@ -49,6 +51,27 @@
       ],
       "ArgumentsSectionElementsOrder": [
         "out_ExtractedInfoDT"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SendEmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "CSV_file"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ReadExcelForInput.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_URL",
+        "dt_excel"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
