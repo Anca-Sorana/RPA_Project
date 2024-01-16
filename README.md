@@ -6,7 +6,7 @@
 - [x] Automatizare fisiere Excel (citire date/scriere date/procesare) (0.5 punct va fi acordat pentru citire + scriere. Daca doar una este implementata, se vor acorda 0.25 puncte)
 - [ ] Automatizare fisiere PDF (native/image) (1 punct va fi acordat pentru amandoua. Daca doar una este implementata, se vor acorda 0.5 puncte)
 - [ ] Automatizare aplicatii web/aplicatii desktop (folosirea de activitati de UI cu selectori stabili si folosirea wildcard-urilor, introducere date, extragere date, etc.) (minim 15 interactiuni la nivel de UI pentru 1 punct)
-- [ ] Tratare exceptii de baza (validarea datelor extrase/introduse, verificarea incarcarii paginilor/elementelor cu Element Exists, folosirea mecanismelor de Retry) Tratare de exceptii folosind Try Catch, Throw, Rethrow  (cel putin 4 exceptii tratate) - 1p
+- [x] Tratare exceptii de baza (validarea datelor extrase/introduse, verificarea incarcarii paginilor/elementelor cu Element Exists, folosirea mecanismelor de Retry) Tratare de exceptii folosind Try Catch, Throw, Rethrow  (cel putin 4 exceptii tratate) - 1p
 - [ ] Functionarea proiectului la schimbarea datelor de test (se va testa proiectul pe 5 date de test diferite pentru 1p)
 - [ ] Folosirea selectorilor dinamici (cu variabile integrate) (cel putin 2 selectori dinamici pentru 0.5)
 - [x] Folosirea Datascraping - 0.5p
