@@ -12,9 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "DataTable&Sequence_1"
+        "DataTable&Sequence_1",
+        "SearchItems&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [
+        "emailAdress",
+        "sites",
         "in_URL",
         "SearchItems"
       ],
@@ -22,17 +25,17 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "OpenWeb.xaml",
+      "Path": "OpenWeb1.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
-        "in_URL"
+        "listURL"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
-      "Path": "SearchItem.xaml",
+      "Path": "SearchItem1.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
@@ -42,14 +45,16 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "ExtractData.xaml",
+      "Path": "ExtractData1.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "ExtractDataTable&Sequence_1",
-        "ExtractDataTable&Sequence_2",
-        "output&Sequence_2"
+        "ExtractDataTable&Sequence_8",
+        "searchItem&Sequence_1",
+        "DataTable&Sequence_1",
+        "ExtractDataTable&Sequence_6"
       ],
       "ArgumentsSectionElementsOrder": [
+        "searchItem2",
         "out_ExtractedInfoDT"
       ],
       "ConstantsSectionElementsOrder": [],
@@ -60,6 +65,7 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
+        "emailAdress",
         "CSV_file"
       ],
       "ConstantsSectionElementsOrder": [],
@@ -70,8 +76,68 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [
+        "listURL",
         "in_URL",
         "dt_excel"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "WriteData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "in_DataTable"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "OpenWeb2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "listURL"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SearchItem2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "inputSearch"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExtractData2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_12",
+        "ExtractDataTable&Sequence_10"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "searchItem2",
+        "out_ExtractedInfoDT"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ProcessConfig.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strConfigFileName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "emailAdress",
+        "jsonObjConfig",
+        "arrConfigParamTypes",
+        "emails"
       ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null

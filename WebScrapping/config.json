@@ -1,0 +1,14 @@
+﻿{
+	"Users" :[
+		{
+			"FirstName" : "Bianca",
+			"LastName" : "Baicoianu",
+			"Email": "bbaicoianu@gmail.com"
+		},
+		{
+			"FirstName" : "Sorana",
+			"LastName" : "Balan",
+			"Email": "balansorana@gmail.com"
+		}
+	]
+}
